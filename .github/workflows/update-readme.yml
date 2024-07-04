@@ -19,7 +19,7 @@ jobs:
       - name: Concatenate README files
         run: |
           echo "# Main Project" > README.md
-          echo "\n## Projects\n" >> README.md
+          echo "## Projects" >> README.md
           echo "<details><summary>Project 3</summary><p>" >> README.md
           cat 3/README.md >> README.md
           echo "</p></details>" >> README.md
