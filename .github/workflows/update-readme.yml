@@ -20,7 +20,7 @@ jobs:
         run: |
           echo "## Here you can see my Python Projects" > README.md
           echo "" >> README.md
-          echo "<details style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;"><summary><b>Project 3</b></summary>" >> README.md
+          echo "<details><summary><b>Project 3</b></summary>" >> README.md
           echo "" >> README.md
           cat 3/README.md >> README.md
           echo "" >> README.md
