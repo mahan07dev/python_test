@@ -1,23 +1,21 @@
 # Main Project
-
-## Projects
-
-<details>
-  <summary>Project 3</summary>
-  <p>
-    <!-- Include the content of 3/README.md here -->
-    <!-- You can copy the content of 3/README.md and paste it below -->
-    <!-- Or use a link to the file if you prefer -->
-    View Project 3 README
-  </p>
-</details>
-
-<details>
-  <summary>Project 4</summary>
-  <p>
-    <!-- Include the content of 4/README.md here -->
-    <!-- You can copy the content of 4/README.md and paste it below -->
-    <!-- Or use a link to the file if you prefer -->
-    View Project 4 README
-  </p>
-</details>
+\n## Projects\n
+<details><summary>Project 3</summary><p>
+# A python test project.
+This code snippet will produce a dataframe with each row containing:
+- the original number
+- Its prime factors
+- Its factorial
+- And the sum of all numbers leading up to it
+## In two formats:
+- py
+- ipynb</p></details>
+<details><summary>Project 4</summary><p>
+# A Pythagoras project.
+This code snippet will produce all of the numbers that can be part of a Pythagoras:
+- All the numbers by order
+- Besides all the Triplets
+## In two formats:
+- py
+- ipynb
+</p></details>
