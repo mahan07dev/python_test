@@ -1,5 +1,5 @@
 # Main Project
-\n## Projects\n
+## Projects
 <details><summary>Project 3</summary><p>
 # A python test project.
 This code snippet will produce a dataframe with each row containing:
