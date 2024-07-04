@@ -1,4 +1,4 @@
-# A python test project.
+## A python test project.
 This code snippet will produce a dataframe with each row containing:
 - the original number
 - Its prime factors
