@@ -17,7 +17,7 @@ This code snippet will produce a dataframe with each row containing:
 </details>
 <details><summary>Project 4</summary>
 
-# A Pythagoras project.
+## A Pythagoras project.
 This code snippet will produce all of the numbers that can be part of a Pythagoras:
 - All the numbers by order
 - Besides all the Triplets
