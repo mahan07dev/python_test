@@ -1,6 +1,9 @@
 # Main Project
+
 ## Projects
-<details><summary>Project 3</summary><p>
+
+<details><summary>Project 3</summary>
+
 # A python test project.
 This code snippet will produce a dataframe with each row containing:
 - the original number
@@ -9,8 +12,10 @@ This code snippet will produce a dataframe with each row containing:
 - And the sum of all numbers leading up to it
 ## In two formats:
 - py
-- ipynb</p></details>
-<details><summary>Project 4</summary><p>
+- ipynb
+</details>
+<details><summary>Project 4</summary>
+
 # A Pythagoras project.
 This code snippet will produce all of the numbers that can be part of a Pythagoras:
 - All the numbers by order
@@ -18,4 +23,5 @@ This code snippet will produce all of the numbers that can be part of a Pythagor
 ## In two formats:
 - py
 - ipynb
-</p></details>
+
+</details>
