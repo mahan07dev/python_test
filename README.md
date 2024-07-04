@@ -1,8 +1,6 @@
-# Main Project
+## Here you can see my Python Project
 
-## Projects
-
-<details><summary>Project 3</summary>
+<details><summary><b>Project 3</b></summary>
 
 ## A python test project.
 This code snippet will produce a dataframe with each row containing:
@@ -15,7 +13,7 @@ This code snippet will produce a dataframe with each row containing:
 - ipynb
 
 </details>
-<details><summary>Project 4</summary>
+<details><summary><b>Project 4</b></summary>
 
 ## A Pythagoras project.
 This code snippet will produce all of the numbers that can be part of a Pythagoras:
