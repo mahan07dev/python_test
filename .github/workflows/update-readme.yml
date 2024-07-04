@@ -1,0 +1,33 @@
+name: Update Main README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Concatenate README files
+        run: |
+          echo "# Main Project" > README.md
+          echo "\n## Projects\n" >> README.md
+          echo "<details><summary>Project 3</summary><p>" >> README.md
+          cat 3/README.md >> README.md
+          echo "</p></details>" >> README.md
+          echo "<details><summary>Project 4</summary><p>" >> README.md
+          cat 4/README.md >> README.md
+          echo "</p></details>" >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m 'Update main README with project details'
+          git push
