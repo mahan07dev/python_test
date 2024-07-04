@@ -4,7 +4,7 @@
 
 <details><summary>Project 3</summary>
 
-# A python test project.
+## A python test project.
 This code snippet will produce a dataframe with each row containing:
 - the original number
 - Its prime factors
@@ -13,6 +13,7 @@ This code snippet will produce a dataframe with each row containing:
 ## In two formats:
 - py
 - ipynb
+
 </details>
 <details><summary>Project 4</summary>
 
