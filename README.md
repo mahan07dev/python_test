@@ -1,4 +1,4 @@
-## Here you can see my Python Project
+## Here you can see my Python Projects
 
 <details><summary><b>Project 3</b></summary>
 
