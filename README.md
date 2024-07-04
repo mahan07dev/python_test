@@ -1,6 +1,5 @@
 ## Here you can see my Python Projects
 
-<details><summary><b>Project 3</b></summary>
 
 ## A python test project.
 This code snippet will produce a dataframe with each row containing:
