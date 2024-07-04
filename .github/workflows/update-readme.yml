@@ -18,7 +18,7 @@ jobs:
 
       - name: Concatenate README files
         run: |
-          echo "## Here you can see my Python Project" > README.md
+          echo "## Here you can see my Python Projects" > README.md
           echo "" >> README.md
           echo "<details><summary><b>Project 3</b></summary>" >> README.md
           echo "" >> README.md
